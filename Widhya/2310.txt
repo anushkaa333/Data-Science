@@ -1,0 +1,10 @@
+1)Who will win the match?? 
+	CSK,RR
+2)How many runs will quinton de kock score off boundries in first 10 balls he faces? If he does not face 10 
+ balls and gets out before, then the number runs he scored off boundries until the point he got out will be 
+ considered.
+	Less than 10, 10-14, 15-20, 21 or more
+3)Which MI bowler will have the best dot balls to total balls bowled ratio?
+	Jasprit Bumrah, Rahul Chahar, Trent Boult, Others
+4)How many overs will be there in the match where a 6 and 4 are scored in the same over?
+	0-2, 3-4, 5-6, 7 or more 

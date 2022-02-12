@@ -1,0 +1,14 @@
+1)Who will win the match?
+	MI, DC
+2)How many wickets totally will both the teams lose during the powerplay?
+	0-1, 2-3, 4, 5 or more
+3)How many bowlers will have an economy rate less than 9 and give fewer than 6 boundries
+of which at most 2 of them only are 6s?
+Consider only those bowlers who bowl more than 1 over. 4	
+0-2, 3-4, 5-6, 7 or more
+4) How many batsmen in the match will score more than 30 runs? If no batsmen score more
+than 30 runs,then first option will be tha ans
+	0-2, 3-4, 5-6, 7 or more
+5)What will be jasprit bumrah's economy rate in the death? If he doesnt bowl in the 
+death, the first option will be considered as the ans.
+	0<=ER<7, 7<=ER<7.5, 7.5<=ER<8, ER>=8

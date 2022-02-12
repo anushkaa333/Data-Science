@@ -1,0 +1,10 @@
+1)Who will win the match?
+	RCB, DC
+2)How many balls will Kasigo Rabada take, to get his first wicket?
+	0-6, 7-12, 13-18, 19-24 or he wont get a wicket
+3)How many bowlers in the match will have an economy rate less than 8, bowl more than 8 
+balls and give away less than 4 boundries?
+	0-1, 2-3, 4-5, 6 or more
+4)How many batsmen in the match, from both the teams, will have a strike rate more than
+130 and hit more than 3 boundries of which, at least 2 boundries should be 4s?
+	0-2, 3-4, 5-7, 8 or more

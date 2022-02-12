@@ -1,0 +1,10 @@
+1) 	Who will Win the match?  
+	RR, SRH
+2)	How many balls will rashid khan take to get his first wicket?
+	he won't get a wicket, 0-8, 9-16, 17-24
+3)	How will david warner get out?
+	Bowled, Caught, Run-out, Others
+4)	Who will score most runs for RR in the match?
+	Steve Smith, Sanju Samson, Jos Butler, Others
+5)	How many no-balls will be bowled in the match?
+	0-1, 2-3, 4-5, 6 or more

@@ -1,0 +1,11 @@
+1)Who will win the match? KXIP, SRH
+2)Which of the following is true for david warner? 
+a.out, strike rate above 125 b.out, strike rate below 125, 
+c.not out, strike rate above 125  d.not out, strike rate below 125
+3)What would be KL Rahul's contribution to the total score?
+less than 8%, 8-14%, 15-22%, 23% or more
+4)How many balls would SRH take to reach 50 runs on team total?
+less than 30, 30-36 balls, 37-42 balls, 43 balls and more
+5)How many runs will chris gayle score in the first 10 balls he faces? If he gets out before playing 10 balls,
+then the number of runs he scores until he gets out will be considered?
+0-10, 11-18, 18-26, 27 or more

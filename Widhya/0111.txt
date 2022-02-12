@@ -1,0 +1,13 @@
+1) Who will win the match?
+	KKR,RR
+2) How many wickets will fall in total during the match?
+	0-5, 6-10, 11-15, 16-20
+3)What will be jofra archer's economy rate and how many boundries will he give away in his 4 overs?
+	Economy rate<=7.5, Boundaries<=4
+	Economy rate<=7.5, Boundaries>4
+	Economy rate>7.5, Boundaries<=4
+	Economy rate>7.5, Boundaries>4
+4)How many bowlers in the match, from both teams, will have an economy rate of less than 8? Only
+those bowlers who bowl more than 1over more be considered. If no bowler has an economy rate of less
+than 8, the first option will be considerd as an answer.
+	0-1,2-3,4-5,6 or more.
